@@ -185,6 +185,10 @@ img {
   border: 0;
 }
 
+aside {
+  float: right;
+}
+
 /**
  * Correct overflow not hidden in IE 9/10/11.
  */
